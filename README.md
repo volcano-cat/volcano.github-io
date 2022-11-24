@@ -1,0 +1,2 @@
+# newindex
+模仿
